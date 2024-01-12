@@ -14,7 +14,7 @@ kaggle datasets download -d paultimothymooney/chest-xray-pneumonia
 ```
 
 ##Colab Notebook
-Explore the provided Colab notebook (your_colab_notebook.ipynb) for a detailed walkthrough of the project. The notebook includes data exploration, model training, and evaluation.
+Explore the provided Colab notebook ```Pneumonia detection.ipynb ``` for a detailed walkthrough of the project. The notebook includes data exploration, model training, and evaluation.
 
 
 Certainly! Below is a simple README template for your repository based on the provided information. Please customize it as needed for your specific project:
