@@ -22,8 +22,11 @@ Certainly! Below is a simple README template for your repository based on the pr
 markdown
 Copy code
 # Pneumonia Detection using Transfer Learning with VGG16
+<div align="center">
+    <img src="https://github.com/Devoir23/Pneumonia-Detection/assets/83571014/0c5b7576-37b0-4a74-9936-9d820bad8f81" alt="Image 1" width="450" height="600"/>
+    <img src="https://github.com/Devoir23/Pneumonia-Detection/assets/83571014/f755e7a3-6000-4232-82d0-8349e9507aa6" alt="Image 2" width="450" height="600"/>
+</div>
 
-![Pneumonia Detection](path/to/your/image.jpg)
 
 ## Overview
 This repository contains a pneumonia detection project using transfer learning with the VGG16 architecture. The model is trained on the Chest X-ray dataset available on Kaggle, specifically the [Chest X-ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) dataset by Paul Mooney.
@@ -44,8 +47,8 @@ streamlit run main.py
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   https://github.com/Devoir23/Pneumonia-Detection.git
+   cd Pneumonia-Detection
    ```
 2. Install the required dependencies:
    ```bash
